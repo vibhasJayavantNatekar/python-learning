@@ -75,6 +75,9 @@ print(setSymDiff)
 
 # alternately you can use ^ operator  
 
+setsydiff2 = set1 ^ setnew 
+print(setsydiff2)
+
 
 
 
