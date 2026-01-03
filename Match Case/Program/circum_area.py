@@ -1,6 +1,6 @@
 
 radius = 10
-pi_value = 3.142
+pi_value = 3.14
 
 area = pi_value * (radius * radius)
 
