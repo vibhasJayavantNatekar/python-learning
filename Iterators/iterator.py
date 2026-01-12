@@ -21,4 +21,3 @@ print(next(myit2))
 
 
 
-
