@@ -1,0 +1,17 @@
+import tkinter as tk
+
+root = tk.Tk()
+
+lb = tk.Listbox(root)
+lb.insert(1 , "Python")
+lb.insert(2 , "Java")
+lb.insert(3 , "C++")
+lb.insert(4 , "Any Other")
+
+lb.pack()
+root.mainloop()
+
+#tk.Listbox() : creates a list container
+#insert() : Adds items to the ilstbox
+#pack() : Displays the listbox in the window
+
